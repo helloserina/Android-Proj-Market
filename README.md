@@ -1,4 +1,4 @@
-# Android Project 2 - Market!
+# (updated) Android Project 2 - Market!
 
 Submitted by: **Serina Khanna**
 
